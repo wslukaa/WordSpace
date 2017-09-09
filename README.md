@@ -1,3 +1,7 @@
+You can play the game yourself by downloading the file "SpaceWord.apk". This game can be played in an android environment of a size of Samsung Galaxy Tab A with screen size 9.7 inches. 
+
+
+
 Click the image below and it will link you to a video with a demo of our game "Word Space". The demo of the game is presented by my groupmate Angela in the Samsung Solve for Tomorrow 2015 competition.
 
 
