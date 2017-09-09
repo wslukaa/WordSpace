@@ -1,3 +1,6 @@
+This is an award winning game done with my groupmates Nelson and Angela. We won Samsung Solve for tomorrow 2015 Hong Kong region 4th place (Merit) with this game. Our team is called 萬解 (Brilliant Word Learning Helper). For details, it can be referenced on http://www.samsung.com/hk/solvefortomorrow/.
+
+
 You can play the game yourself by downloading the file "SpaceWord.apk". This game can be played in an android environment of a size of Samsung Galaxy Tab A with screen size 9.7 inches. 
 
 
